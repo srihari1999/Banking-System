@@ -1,0 +1,2 @@
+Date and Time	Credit	Debit	Balance
+[2020-06-05] [07:44:15]	1000	0	1000
